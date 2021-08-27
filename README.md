@@ -7,7 +7,7 @@
 Bike Share project 
 
 ### Description
-This project focuses on using simple statistics methods to perform analysis on the bikeshare data.
+This project focuses on using simple statistics methods to perform analysis on the bikeshare data. The data was from three major cities: Chicago, NewYork and Washington.
 
 ### Files used
 1- Bikeshare: 
